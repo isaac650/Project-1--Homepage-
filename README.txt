@@ -3,6 +3,7 @@ Celine Isaacs  Personal Homepage
 **Author: Celine Isaacs
 **Class:[CS Web Development — Northeastern University] https://johnguerra.co/classes/webDevelopment_online_summer_2026/
 **Live Page : https://isaac650.github.io/Project-1--Homepage-/
+**Design Document: Design.txt 
 
 ## Project Objective
 
