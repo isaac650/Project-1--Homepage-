@@ -1,0 +1,45 @@
+Project Description
+
+My personal homepage as a Computer Science student at Northeastern University. The site is a front-end only static page built with vanilla HTML5, CSS3, and ES6 modules. It introduces who I am academically and personally, showcases my projects and skills, and includes a dark/light mode toggle as a creative addition.
+
+User Personas
+
+Persona 1 — The Recruiter
+
+
+Name: Kate, 34, Technical Recruiter
+
+As a recruiter, I want to quickly see Celine's skills and projects so I can decide if she's a good fit for a role.
+
+Goal: Quickly assess if Celine has the skills and experience relevant to an open role
+
+Frustration: Homepages that are hard to navigate or don't show real work
+
+
+
+
+Persona 2 — The Professor
+
+Name: Dr. Ahmed, 45, Computer Science Professor
+
+As a professor, I want to see that the page is well structured and uses proper web development practices so I can evaluate her technical work.
+
+Goal: Review a student's work and assess their abilities in specific software and technical components in a class. As well as establishing if growth has been made over the past few months.
+
+Frustration: Pages that lack meaningful content or are too generic
+
+Persona 3 — Fellow Computer Science Student
+
+Name: Jordan, 26, Fellow CS Student
+
+As a peer, I want to learn about Celine's background and interests so I can connect with her.
+
+Goal: Jordan would like to get to know Celine and see what projects she has worked on in the past to establish what she is capable of before starting a new group project.
+
+Frustration: Homepages that feel impersonal or don't show personality
+
+
+User journey
+
+As any visitor, I want to toggle between dark and light mode so the page is comfortable to read in any environment
+As any visitor, I want to navigate easily between pages so I can find the information I'm looking for
