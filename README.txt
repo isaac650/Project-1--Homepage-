@@ -1,8 +1,8 @@
 Celine Isaacs  Personal Homepage
 
-**Author:** Celine Isaacs
-**Class:** [CS Web Development — Northeastern University](https://northeastern.instructure.com)
-**Live Demo:** https://isaac650.github.io/WebDevelopment/CelineHomePage/
+**Author: Celine Isaacs
+**Class:[CS Web Development — Northeastern University] https://johnguerra.co/classes/webDevelopment_online_summer_2026/
+**Live Page : https://isaac650.github.io/Project-1--Homepage-/
 
 ## Project Objective
 
@@ -70,13 +70,16 @@ CelineHomePage/
 - Prettier
 
 ## GenAI Usage
-Claude was used to assist with , dark/light mode implementation, and debugging.
+Claude was used to assist with, dark/light mode implementation, and debugging.
 
 ##Google Slides 
 https://docs.google.com/presentation/d/1EiJenPX2gjUVky77ZJorNIeT-UnZzZOjR3YeP7HAV20/edit?usp=sharing
 
 ##DEMO Video 
 https://youtu.be/bLCughPtQ9w
+
+##Live Page 
+ https://isaac650.github.io/Project-1--Homepage-/
 
 ## License
 
