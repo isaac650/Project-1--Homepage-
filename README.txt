@@ -1,4 +1,4 @@
-# Celine Isaacs — Personal Homepage
+Celine Isaacs  Personal Homepage
 
 **Author:** Celine Isaacs
 **Class:** [CS Web Development — Northeastern University](https://northeastern.instructure.com)
@@ -17,7 +17,6 @@ A personal homepage built with vanilla HTML5, CSS3, and ES6 modules. The site in
 - `index.html` — Home page with hero section, typing animation, skills and featured projects
 - `about.html` — About me with education, work history, and skills
 - `projects.html` — Full project listing
-- `ai-generated.html` — AI generated page exploring AI in web development
 
 ## Features
 
@@ -29,7 +28,7 @@ A personal homepage built with vanilla HTML5, CSS3, and ES6 modules. The site in
 
 ## Creative Addition
 
-Dark/light mode toggle — implemented in vanilla JavaScript. The user's preference is saved to `localStorage` and applied on every page load, with a smooth CSS transition between themes.
+Dark/light mode toggle implemented in JavaScript. The user's preference is saved to `localStorage` and applied on every page load, with a smooth CSS transition between themes.
 
 ## Instructions to Build
 
@@ -43,7 +42,6 @@ python3 -m http.server 8080
 Then open `http://localhost:8080` in your browser.
 
 ## File Structure
-
 ```
 CelineHomePage/
 ├── index.html
@@ -63,7 +61,6 @@ CelineHomePage/
 ```
 
 ## Technologies Used
-
 - HTML5
 - CSS3
 - ES6+ JavaScript
@@ -73,8 +70,14 @@ CelineHomePage/
 - Prettier
 
 ## GenAI Usage
-
 Claude was used to assist with , dark/light mode implementation, and debugging.
+
+##Google Slides 
+https://docs.google.com/presentation/d/1EiJenPX2gjUVky77ZJorNIeT-UnZzZOjR3YeP7HAV20/edit?usp=sharing
+
+##DEMO Video 
+https://youtu.be/bLCughPtQ9w
+
 ## License
 
 MIT License — see LICENSE file for details.
