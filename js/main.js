@@ -40,7 +40,12 @@ function initTypingHero() {
   const el = document.querySelector(".hero-typing");
   if (!el) return;
 
-  const words = ["Computer Scientist", "Developer", "Problem Solver", "Student"];
+  const words = [
+    "Computer Scientist",
+    "Developer",
+    "Problem Solver",
+    "Student",
+  ];
   let wordIndex = 0;
   let charIndex = 0;
   let deleting = false;
