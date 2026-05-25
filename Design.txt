@@ -42,4 +42,20 @@ Frustration: Homepages that feel impersonal or don't show personality
 User journey
 
 As any visitor, I want to toggle between dark and light mode so the page is comfortable to read in any environment
-As any visitor, I want to navigate easily between pages so I can find the information I'm looking for
+As any visitor, I want to navigate easily between pages so I can find the information I'm looking for.
+
+
+Design Mockups
+
+
+Mockup images are located in the images/ folder of this repository:
+- images/HomePage.jpg — Wireframe of the home page layout including the hero section, skills grid, and featured projects
+
+- images/AboutPage.jpg — Wireframe of the about page showing the two column layout with bio text and detail cards
+
+- images/ProjectsPage.jpg — Wireframe of the projects page showing the project card grid layout
+
+The mockups were created to plan the layout and structure of each page before building. 
+They show the placement of the navigation, hero section, content sections, and footer.
+The final implementation closely follows these wireframes with the addition of the 
+dark/light mode toggle and typing animation as creative enhancements.
